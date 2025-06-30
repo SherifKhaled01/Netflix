@@ -82,7 +82,7 @@ This project presents an end-to-end SQL-based data analysis of a Netflix content
 * Microsoft SQL Server
 * SQL Server Management Studio (SSMS)
 * Git & GitHub
-* Optional: Tableau / Power BI for visualization
+* Visual: Tableau
 
 ---
 
@@ -92,13 +92,6 @@ This project presents an end-to-end SQL-based data analysis of a Netflix content
 2. Create database `Netflix`, and table `content_library`
 3. Run the full SQL script from `queries.sql`
 
----
-
-## 🚀 Future Work
-
-* Visualize trends using Tableau/Power BI
-* Add episode count per show (if data available)
-* Cluster genres by popularity and rating
 
 ---
 
